@@ -1,0 +1,2 @@
+# eCollect
+in this project we have applied the five stages of design thinking on idea concerning nature, for the purpose of minimizing the spread of waste, through good teamwork, we have come out with an effective solution that allows to deminue this phenomenon, c 'is to realize a mobile application allows to make the communication between the companies and the people interested by the recycling of the waste and the inhabitants.
